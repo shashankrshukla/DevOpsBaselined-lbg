@@ -1,0 +1,1 @@
+start "Z:\DevOps\FirstPipeline\DevOpsTrial\test\" test.js
